@@ -1,0 +1,3 @@
+To execude the program simply run:
+
+go run main.go
